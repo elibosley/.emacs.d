@@ -1,9 +1,6 @@
 # .emacs.d
-Emacs config 😎
 
 ## About
 
-This is my personal Clojure preferences folder. I mostly got it from the config provided with:
+This is mostly @dehli's and from Clojure For the Brave and True, any new modifications are from me.
 [Clojure for the Brave and True](http://www.braveclojure.com/basic-emacs/).
-
-I'm just now learning how to use emacs, so if you find yourself here and have suggestions feel free to reach out!
