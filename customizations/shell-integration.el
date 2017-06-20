@@ -2,7 +2,7 @@
 ;; Sets up exec-path-from shell
 ;; https://github.com/purcell/exec-path-from-shell
 
-(exec-path-from-shell-initialize)
-(exec-path-from-shell-copy-envs
- '("PATH"))
+;;(exec-path-from-shell-initialize)
+;;(exec-path-from-shell-copy-envs
+;; '("PATH"))
 ;;(add-to-list 'exec-path "/usr/local/bin")
