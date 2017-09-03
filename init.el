@@ -147,7 +147,7 @@
     ("5ee12d8250b0952deefc88814cf0672327d7ee70b16344372db9460e9a0e3ffc" "cf08ae4c26cacce2eebff39d129ea0a21c9d7bf70ea9b945588c1c66392578d1" "52588047a0fe3727e3cd8a90e76d7f078c9bd62c0b246324e557dfa5112e0d0c" default)))
  '(package-selected-packages
    (quote
-    (fill-column-indicator kibit-helper flycheck-kotlin neotree yasnippet ag helm company flycheck auto-complete magit tagedit rainbow-delimiters projectile smex ido-ubiquitous markdown-mode less-css-mode web-mode js2-mode cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
+    (ac-clang fill-column-indicator kibit-helper flycheck-kotlin neotree yasnippet ag helm company flycheck auto-complete magit tagedit rainbow-delimiters projectile smex ido-ubiquitous markdown-mode less-css-mode web-mode js2-mode cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
